@@ -16,3 +16,5 @@ Attendance
 ----------
 Marcus
 Marcus again
+
+new entrance from my macbook
